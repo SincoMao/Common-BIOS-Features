@@ -1,0 +1,8 @@
+<component>
+    name = "CommonOverride"
+    category = ModulePart
+    LocalRoot = "OemPkg\CommonOverride\"
+    RefName = "OemPkg.CommonOverride"
+[files]
+"CommonOverride.sdl"
+<endComponent>

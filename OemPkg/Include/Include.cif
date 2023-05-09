@@ -1,0 +1,11 @@
+<component>
+    name = "Include"
+    category = ModulePart
+    LocalRoot = "OemPkg\Include\"
+    RefName = "OemPkg.Include"
+[parts]
+"OemPkg.Include.Guid"
+"OemPkg.Include.Library"
+"OemPkg.Include.Ppi"
+"OemPkg.Include.Protocol"
+<endComponent>

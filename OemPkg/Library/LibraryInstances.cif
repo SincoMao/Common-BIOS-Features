@@ -1,0 +1,8 @@
+<component>
+    name = "LibraryInstances"
+    category = ModulePart
+    LocalRoot = "OemPkg\Library\"
+    RefName = "OemPkg.LibraryInstances"
+[parts]
+
+<endComponent>

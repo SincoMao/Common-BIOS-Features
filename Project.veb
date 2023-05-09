@@ -1,0 +1,15 @@
+[project]
+	version = 1
+	BuildDir = "Build"
+	ProjectType = "AptioV"
+
+[files]
+"OemPkg\OemPkg.cif"= Private
+"OemPkg\Include\Include.cif"= Private
+"OemPkg\Include\Guid\Guid.cif"= Private
+"OemPkg\Include\Library\Library.cif"= Private
+"OemPkg\Include\Ppi\Ppi.cif"= Private
+"OemPkg\Include\Protocol\Protocol.cif"= Private
+"OemPkg\Library\LibraryInstances.cif"= Private
+"OemPkg\Universal\Universal.cif"= Private
+"OemPkg\CommonOverride\CommonOverride.cif"= Private

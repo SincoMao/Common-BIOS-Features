@@ -1,0 +1,7 @@
+TOKEN
+    Name  = "CommonOverride_SUPPORT"
+    Value  = "1"
+    Help  = "Main token to enable/disable CommonOverride support in project"
+    TokenType = Boolean
+    Master = Yes
+End

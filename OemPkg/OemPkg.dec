@@ -1,0 +1,31 @@
+## @file OemPkg.dec
+#   This is OemPkg declaration file which includes all Guids, Pcds,
+#   Protocols etc which are common to this package.
+##
+
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = OemPkg
+  PACKAGE_GUID                   = 830310b9-0989-4ec0-b9c6-05841c886340
+  PACKAGE_VERSION                = 0.1
+
+[Includes]
+  Include
+
+[LibraryClasses]
+  
+
+[Guids]
+  
+
+[Ppis]
+  
+
+[Protocols]
+  
+
+[PcdsFixedAtBuild]
+  
+
+[PcdsDynamic, PcdsDynamicEx]
+  

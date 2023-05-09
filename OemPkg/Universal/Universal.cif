@@ -1,0 +1,8 @@
+<component>
+    name = "Universal"
+    category = ModulePart
+    LocalRoot = "OemPkg\Universal\"
+    RefName = "OemPkg.Universal"
+[parts]
+
+<endComponent>

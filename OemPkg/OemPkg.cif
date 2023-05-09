@@ -1,0 +1,15 @@
+<component>
+    name = "OemPkg"
+    category = Flavor
+    Rank = 8388620
+    LocalRoot = "OemPkg\"
+    RefName = "OemPkg"
+[files]
+"OemPkg.dec"
+"OemPkg.sdl"
+[parts]
+"OemPkg.Include"
+"OemPkg.LibraryInstances"
+"OemPkg.Universal"
+"OemPkg.CommonOverride"
+<endComponent>
